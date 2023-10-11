@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzaneh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farzaneh-hatami&label=Profile%20views&color=0e75b6&style=flat" alt="zaha2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farzaneh-hatami&label=Profile%20views&color=0e75b6&style=flat" alt="farzaneh-hatami" /> </p>
 - 🔭 I’m currently working on explainable representation learning.
 
 <h3 align="left">Connect with me:</h3>
